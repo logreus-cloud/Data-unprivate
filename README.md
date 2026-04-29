@@ -95,10 +95,10 @@ git pull origin main
 - [x] Локальный репозиторий инициализирован (`git init`).
 - [x] У каждого коммита осмысленный `message`.
 - [x] В репо ≥ 2 коммитов.
-- [ ] Создан публичный репо `my-first-repo` на GitHub.
-- [ ] Локальные коммиты успешно запушены (`git push -u origin main`).
-- [ ] На GitHub видны оба файла (`index.html`, `style.css`).
-- [ ] Создан файл прямо на GitHub и подтянут локально через `git pull`.
+- [x] Создан публичный репо `my-first-repo` на GitHub.
+- [x] Локальные коммиты успешно запушены (`git push -u origin main`).
+- [x] На GitHub видны оба файла (`index.html`, `style.css`).
+- [x] Создан файл прямо на GitHub и подтянут локально через `git pull`.
 
 ---
 
